@@ -1,0 +1,55 @@
+* 
+{
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    border: 1px solid black;
+    width: 400px;
+    margin: 0px auto;
+    background-color: rgb(171, 225, 225);
+}
+form {
+    margin: 10px;
+}
+.lable {
+    padding: 5px;
+}
+.text {
+    margin: 5px;
+}
+.Gender
+{
+
+    margin: 5px;
+}
+.list 
+{
+
+    margin: 5px;
+}
+.Date
+{
+    margin: 5px;
+}
+.button 
+{
+    padding: 5px;
+    text-align: center;
+}
+.text input 
+{
+    width: 75%;
+}
+.button input
+{
+    padding: 8px;
+    background-color: rgb(202, 110, 110);
+    border-radius: 2px;
+    cursor: pointer;
+}
+.button input:hover
+{
+    background-color: blueviolet;
+    cursor: pointer;
+}
